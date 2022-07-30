@@ -7,7 +7,7 @@ import Navbar from "./components/Navbar";
 
 const App: React.FunctionComponent = () => {
   return (
-    <div className="bg-light" style={{ height: "100vh", width: "100vw" }}>
+    <div className="bg-light" style={{ height: "100vh", width: "100vw " }}>
       <Navbar />
       <Container className="mb-4">
         <Routes>
